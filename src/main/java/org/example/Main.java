@@ -15,6 +15,7 @@ public class Main {
 
             System.out.println("Das ist ein Commit von michael Goeltinger");
             System.out.println("Das ist ein Commit von Haozhe Li");
+            System.out.println("Push to main branch");
         }
     }
 }
