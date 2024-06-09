@@ -110,6 +110,11 @@ public class TicTacToe {
             return "Unknown";
         }
 
+        //return board
+        public char[][] getBoard() {
+        return board;
+        }
+
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             TicTacToe game = new TicTacToe();
